@@ -1,4 +1,50 @@
-## Hi there 👋
+
+# 👋 Hola, soy JhordanLD
+
+### 🚀 Desarrollador apasionado y eterno aprendiz
+
+Soy un entusiasta de la programación y la tecnología, con interés especial en el desarrollo de software, aplicaciones de realidad virtual, y la ciberseguridad. Siempre estoy en busca de aprender algo nuevo, mejorar mis habilidades y contribuir a proyectos que puedan marcar la diferencia.
+
+---
+
+## 🌟 Habilidades principales
+
+- **Lenguajes de programación:** Python, JavaScript, Java, C#, 
+- **Frameworks y herramientas:** Angular(aprendiendo), Bootstrap, Node.js
+- **Ciberseguridad:** Ethical hacking, seguridad de redes, protocolos
+- **Realidad Virtual:** Diseño y desarrollo de entornos inmersivos con Unity
+- **Bases de datos:** MySQL, PostgreDB
+- **Herramientas de colaboración:** Git, GitHub, Trello
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Desarrollo Full-Stack con MERN (MongoDB, Express, React, Node.js)
+- Implementación de servicios globales en ambientes de virtualización
+- 
+---
+
+## 📈 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhordanLD&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhordanLD&layout=compact&theme=radical)
+
+---
+
+## 🌍 Conéctate conmigo
+
+- **Portafolio:** [jhordanld.github.io](https://jhordanld.github.io)
+- **LinkedIn:** [linkedin.com/in/jhordanld](https://pe.linkedin.com/in/jhordan-wiler-lopez-dolores-3228b331a)
+- **Correo:** [jhordanld@example.com](mailto:jwlopezl@ucvvirtual.edu.pe)
+
+---
+
+### ✨ Frase favorita
+
+> "La única manera de hacer un gran trabajo es amar lo que haces." - Steve Jobs
+
+¡Gracias por visitar mi perfil! Si tienes algún proyecto interesante o quieres colaborar, no dudes en contactarme. 🚀
 
 <!--
 **JhordanLD/JhordanLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
