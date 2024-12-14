@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy JhordanLD
 
-### 🚀 Desarrollador apasionado y eterno aprendiz
+### 🚀 Desarrollador y eterno aprendiz
 
 Soy un entusiasta de la programación y la tecnología, con interés especial en el desarrollo de software, aplicaciones de realidad virtual, y la ciberseguridad. Siempre estoy en busca de aprender algo nuevo, mejorar mis habilidades y contribuir a proyectos que puedan marcar la diferencia.
 
@@ -22,14 +22,8 @@ Soy un entusiasta de la programación y la tecnología, con interés especial en
 
 - Desarrollo Full-Stack con MERN (MongoDB, Express, React, Node.js)
 - Implementación de servicios globales en ambientes de virtualización
-- 
----
-
-## 📈 Mis estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhordanLD&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhordanLD&layout=compact&theme=radical)
-
+- Desarrollo de backend con Spring Boot
+  
 ---
 
 ## 🌍 Conéctate conmigo
