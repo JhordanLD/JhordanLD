@@ -26,9 +26,8 @@ Soy un entusiasta de la programación y la tecnología, con interés especial en
   
 ---
 
-## 🌍 Conéctate conmigo
+## 🌍 Link de contacto
 
-- **Portafolio:** [jhordanld.github.io](https://jhordanld.github.io)
 - **LinkedIn:** [linkedin.com/in/jhordanld](https://pe.linkedin.com/in/jhordan-wiler-lopez-dolores-3228b331a)
 - **Correo:** [jhordanld@example.com](mailto:jwlopezl@ucvvirtual.edu.pe)
 
