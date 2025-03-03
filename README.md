@@ -9,7 +9,7 @@ Soy un entusiasta de la programación y la tecnología, con interés especial en
 
 ## 🌟 Habilidades principales
 
-- **Lenguajes de programación:** Python, JavaScript, Java, C#, 
+- **Lenguajes de programación:** Python, TypeScript, Java, C#, C++
 - **Frameworks y herramientas:** Angular, Spring boot, Bootstrap, Node.js
 - **Ciberseguridad:** Ethical hacking, seguridad de redes, protocolos
 - **Realidad Virtual:** Diseño y desarrollo de entornos inmersivos con Unity
